@@ -25,7 +25,7 @@ NLP Vectorization techniques
    GloVe
    FastText
 #  Data Set
-Here the train and test data sets will be given individually. The train dataset contains 100860 rows with the information of url and its property(Whether it is lezzitimate or not). By considering the dataset the natural language preprocessing steps like tokenization will be applied.
+Here the train and test data sets will be given individually. The train dataset contains 100860 rows with the information of url and its property(Whether it is legitimate or not). By considering the dataset the natural language preprocessing steps like tokenization will be applied.
 The test dataset contains 25220 row with out having the property(labels are not given).
    
 
