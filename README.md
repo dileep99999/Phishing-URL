@@ -56,7 +56,7 @@ This classification algorithm are similar to ensemble learning method of classif
 Testing of the given url through the deployed website will be predicted whether it is legitimate or not by using Naive Bayes trained model.
 
 # Model Deployment
-Inorer to deploy the model into a web browser flask technology is used.
+Inorder to deploy the model into a web browser flask technology is used.
 
 # Result
 Observations:
